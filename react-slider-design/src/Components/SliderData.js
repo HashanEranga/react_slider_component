@@ -24,8 +24,26 @@ export const SliderData = [
     },
 
     {
+        image : 'https://i.pinimg.com/236x/78/88/08/7888081d9d7cb6303f6fb3d01f0d5634.jpg'
+    },
+
+    {
+        image : 'https://i.pinimg.com/236x/8b/4f/30/8b4f30e8538ef7751b7b136e407d4a82.jpg'
+    },
+
+    {
         image : 'https://i.pinimg.com/236x/ff/02/58/ff0258910ba15b0d66ebef9154230e34.jpg'
     },
 
+    {
+        image : 'https://i.pinimg.com/236x/3e/7b/07/3e7b07579898826f622611e1f2412b4a.jpg'
+    },
 
+    {
+        image : 'https://i.pinimg.com/236x/e5/25/dd/e525dd2d21c40e57a8a9715fac4eaf81.jpg'
+    },
+
+    {
+        image : 'https://i.pinimg.com/236x/22/93/ee/2293eebcc56f83433bbb4f8569d78957.jpg'
+    }
 ]
